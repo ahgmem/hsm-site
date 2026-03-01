@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>His Shiny Materials</title>
+    <style>
+        body { background-color: #000; color: #fff; font-family: sans-serif; text-align: center; padding: 20px; }
+        img { width: 100%; max-width: 500px; border: 2px solid #333; }
+        .content { max-width: 600px; margin: 0 auto; line-height: 1.5; }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>His Shiny Materials</h1>
+        <p><em>Hand-Fused .999 Fine Silver</em></p>
+
+        <img src="fine_silver.jpg" alt="18-gauge silver chain">
+
+        <p><strong>The 50-Gram Specimen</strong></p>
+        <p>19 inches of solid, hand-woven 18-gauge double loop-in-loop. No solder. Just pure silver melted into itself.</p>
+        
+        <hr>
+        
+        <p>My hallmarks are struck by hand. They are the evidence of the bench—the "off" stamp is the proof of the human hand.</p>
+    </div>
+</body>
+</html>
